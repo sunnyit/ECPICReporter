@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/sunnyit/ECPICReporter/master/ECPICReporter.ipa</string>
+					<string>https://raw.githubusercontent.com/sunnyit/ECPICReporter/test16/ECPICReporter.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>cn.SunnyIT.ECPICReporter</string>
 				<key>bundle-version</key>
-				<string>1.5</string>
+				<string>1.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
