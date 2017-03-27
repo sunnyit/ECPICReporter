@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>cn.SunnyIT.ECPICReporter</string>
 				<key>bundle-version</key>
-				<string>1.9</string>
+				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
